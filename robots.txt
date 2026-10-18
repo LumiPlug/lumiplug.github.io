@@ -3,4 +3,4 @@ Allow: /
 Disallow: /account
 Disallow: /auth
 
-Sitemap: https://lumiplug.github.io/sitemap.xml
+Sitemap: https://www.lumiplug.com/sitemap.xml
